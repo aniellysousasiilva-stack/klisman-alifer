@@ -1,0 +1,8 @@
+{
+  "name": "Instituto Fire - Plataforma Educacional",
+  "description": "Uma plataforma de ensino moderna para o Instituto Fire, permitindo a organização de pastas, vídeos, exercícios e acompanhamento de progresso dos alunos com auxílio de IA.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
